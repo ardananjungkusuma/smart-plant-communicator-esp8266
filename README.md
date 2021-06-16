@@ -1,4 +1,5 @@
 # smart-plant-communicator-esp8266
 Final Project Internet of Things
 
-Demo : https://youtu.be/wxszUOEg8Jk
+Presentasi Mengenai Project : https://youtu.be/bbYAdTK-jIM
+Demo Project : https://youtu.be/wxszUOEg8Jk
